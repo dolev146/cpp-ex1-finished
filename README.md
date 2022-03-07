@@ -1,3 +1,8 @@
+משום מה לא הסתדר לי בריפו הקודם עם השינויים אז אם יש צורך לראות את ההסטוריה של העבודה שלי 
+זה הניסיונות הקודמים
+https://github.com/dolev146/cpp-ex1.git
+https://github.com/dolev146/cpp-first-exercise-matress.git
+
 <div dir="rtl" lang="he">
 
 # יצרני השטיחים
